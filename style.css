@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+#main-title {
+    color: #ed6969;
+    font-size: 48px;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+h2 {
+    color: rgb(77, 77, 77);
+}
+
+img {
+    height: auto;
+    border: 5px solid #ed6969;
+}
+
+.list {
+    color: green;
+    font-weight: 100;
+}
+
+.main.list {
+    font-size: 22px;
+}
+
+.ordered.list {
+    color: black;
+    font-size: 18px;
+}
+
+img.main-image {
+    width: 300px;
+}
+
+img.side-image {
+    width: 600px;
+}
+
+.success {
+    text-align: center;
+    color: darkorange;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
