@@ -16,10 +16,16 @@ body {
     background-color: rgb(212, 196, 165);
 }
 
-.align-recipe-content {
-    display: block;
-    margin-left: 200px;
-    margin-right: 700px;
+.flex-recipe-container {
+    display: flex;
+    justify-content: flex-start;
+    margin: 0 100px;
+    width: 500px;
+}
+
+.flex-recipe-info {
+    flex: 1;
+    text-align: justify;
 }
 
 .box-main {
